@@ -1,2 +1,2 @@
 # language
-run autotests for different language
+create autotests for different languages
